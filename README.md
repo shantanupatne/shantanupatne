@@ -1,6 +1,5 @@
-- # 👋 Hi, I’m Shantanu
----
-- Welcome to my github profile!
+<div align=center> # 👋 Hi, I’m Shantanu! </div>
+Welcome to my github profile!
 
 <!---
 shantanupatne/shantanupatne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
