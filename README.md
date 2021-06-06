@@ -1,4 +1,4 @@
-<div align=center> # 👋 Hi, I’m Shantanu! </div>
+# <div align=center> 👋 Hi, I’m Shantanu! </div>
 Welcome to my github profile!
 
 <!---
